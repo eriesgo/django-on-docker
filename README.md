@@ -40,3 +40,8 @@ docker-compose -f docker-compose.prod.yml logs -f
 ```
 hey -z 10s -z 3m http://localhost:1337
 ```
+
+
+# Version control
+
+- 20240107 - Tested using SSH connection
